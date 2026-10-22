@@ -1,7 +1,9 @@
 # COVID-19 Global Impact Dashboard (Tableau)
 
 ## Live Interactive Dashboard
-👉 [*Click Here to View the Interactive Dashboard on Tableau Public*](https://tableau.com)
+👉 [*Click Here to View the Interactive Dashboard on Tableau Public*](https://public.tableau.com/app/profile/mbonjoh.meriame.mbojeh/viz/CovidDashboard_17916208037900/Dashboard1?publish=yes)
+
+![Dashboard Preview](dashboard_preview.png)
 
 ## Project Overview
 This business intelligence project visualizes the global spread, chronological trajectory, and mortality impact of COVID-19. Built using *Tableau Public*, the dashboard synthesizes complex public health records into highly scannable visual anchors for operational tracking.
